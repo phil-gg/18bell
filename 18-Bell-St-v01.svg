@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+min-x = -502
+min-y = -602
+max-x = 1701
+max-y = 4201
+1px padding all sides
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-503 -603 2205 4805">
+  <style>
+    .gridlines {
+      fill: #999;
+      stroke: none;
+    }
+    .landparcels {
+      fill:none;
+      stroke:#000;
+      stroke-width:8;
+      stroke-linejoin:miter;
+      stroke-miterlimit:1.5;
+      stroke-linecap:square;
+      stroke-dasharray:16 15.94;
+    }
+    .neighbourtext {
+      font-family:"Arial Black";
+      font-size:96px;
+      font-variant:small-caps;
+      text-anchor:middle;
+      dominant-baseline:alphabetic;
+    }
+  </style>
+  <rect width="2205" height="4805" x="-503" y="-603" fill="#fff" stroke="none"/>
+  <g class="gridlines">
+    <rect width="2203" height="4" x="-502" y="-502"/>
+    <rect width="2203" height="4" x="-502" y="-2"/>
+    <rect width="2203" height="4" x="-502" y="498"/>
+    <rect width="2203" height="4" x="-502" y="998"/>
+    <rect width="2203" height="4" x="-502" y="1498"/>
+    <rect width="2203" height="4" x="-502" y="1998"/>9
+    <rect width="2203" height="4" x="-502" y="2498"/>
+    <rect width="2203" height="4" x="-502" y="2998"/>9
+    <rect width="2203" height="4" x="-502" y="3498"/>
+    <rect width="2203" height="4" x="-502" y="3998"/>9
+    <rect width="2203" height="2" x="-502" y="-602"/>
+    <rect width="2203" height="2" x="-502" y="-401"/>
+    <rect width="2203" height="2" x="-502" y="-301"/>
+    <rect width="2203" height="2" x="-502" y="-201"/>
+    <rect width="2203" height="2" x="-502" y="-101"/>
+    <rect width="2203" height="2" x="-502" y="99"/>
+    <rect width="2203" height="2" x="-502" y="199"/>
+    <rect width="2203" height="2" x="-502" y="299"/>
+    <rect width="2203" height="2" x="-502" y="399"/>
+    <rect width="2203" height="2" x="-502" y="99"/>
+    <rect width="2203" height="2" x="-502" y="199"/>
+    <rect width="2203" height="2" x="-502" y="299"/>
+    <rect width="2203" height="2" x="-502" y="399"/>
+    <rect width="2203" height="2" x="-502" y="599"/>
+    <rect width="2203" height="2" x="-502" y="699"/>
+    <rect width="2203" height="2" x="-502" y="799"/>
+    <rect width="2203" height="2" x="-502" y="899"/>
+    <rect width="2203" height="2" x="-502" y="1099"/>
+    <rect width="2203" height="2" x="-502" y="1199"/>
+    <rect width="2203" height="2" x="-502" y="1299"/>
+    <rect width="2203" height="2" x="-502" y="1399"/>
+    <rect width="2203" height="2" x="-502" y="1599"/>
+    <rect width="2203" height="2" x="-502" y="1699"/>
+    <rect width="2203" height="2" x="-502" y="1799"/>
+    <rect width="2203" height="2" x="-502" y="1899"/>
+    <rect width="2203" height="2" x="-502" y="2099"/>
+    <rect width="2203" height="2" x="-502" y="2199"/>
+    <rect width="2203" height="2" x="-502" y="2299"/>
+    <rect width="2203" height="2" x="-502" y="2399"/>
+    <rect width="2203" height="2" x="-502" y="2599"/>
+    <rect width="2203" height="2" x="-502" y="2699"/>
+    <rect width="2203" height="2" x="-502" y="2799"/>
+    <rect width="2203" height="2" x="-502" y="2899"/>
+    <rect width="2203" height="2" x="-502" y="3099"/>
+    <rect width="2203" height="2" x="-502" y="3199"/>
+    <rect width="2203" height="2" x="-502" y="3299"/>
+    <rect width="2203" height="2" x="-502" y="3399"/>
+    <rect width="2203" height="2" x="-502" y="3599"/>
+    <rect width="2203" height="2" x="-502" y="3699"/>
+    <rect width="2203" height="2" x="-502" y="3799"/>
+    <rect width="2203" height="2" x="-502" y="3899"/>
+    <rect width="2203" height="2" x="-502" y="4099"/>
+    <rect width="2203" height="2" x="-502" y="4199"/>
+    <rect width="4" height="4803" x="-502" y="-602"/>
+    <rect width="4" height="4803" x="-2" y="-602"/>
+    <rect width="4" height="4803" x="498" y="-602"/>
+    <rect width="4" height="4803" x="998" y="-602"/>
+    <rect width="4" height="4803" x="1498" y="-602"/>
+    <rect width="2" height="4803" x="-401" y="-602"/>
+    <rect width="2" height="4803" x="-301" y="-602"/>
+    <rect width="2" height="4803" x="-201" y="-602"/>
+    <rect width="2" height="4803" x="-101" y="-602"/>
+    <rect width="2" height="4803" x="99" y="-602"/>
+    <rect width="2" height="4803" x="199" y="-602"/>
+    <rect width="2" height="4803" x="299" y="-602"/>
+    <rect width="2" height="4803" x="399" y="-602"/>
+    <rect width="2" height="4803" x="599" y="-602"/>
+    <rect width="2" height="4803" x="699" y="-602"/>
+    <rect width="2" height="4803" x="799" y="-602"/>
+    <rect width="2" height="4803" x="899" y="-602"/>
+    <rect width="2" height="4803" x="1099" y="-602"/>
+    <rect width="2" height="4803" x="1199" y="-602"/>
+    <rect width="2" height="4803" x="1299" y="-602"/>
+    <rect width="2" height="4803" x="1399" y="-602"/>
+    <rect width="2" height="4803" x="1599" y="-602"/>
+    <rect width="2" height="4803" x="1699" y="-602"/>
+  </g>
+  <g class="landparcels">
+    <path id="18bell"
+           d="M1522 0
+              L1530 0
+               1530 4025l-10 0 1 0
+              L0 4025l0-10 0 1.03 0-32 0 1.03 0-32 0 1.03 0-32 0 1.03 0-32 0 1.03 0-32 0 1.03 0-32 0 1.03 0-32 0 1.03 
+              L0 400l7-7-1.1 1.1 23-23-1.1 1.1 23-23-1.1 1.1
+              L400 0l10 0-1 0 32 0-1 0 32 0-1 0 32 0-1 0 32 0-1 0 32 0-1 0 32 0-1 0 32 0-1 0 32 0-1 0Z"/>
+    <path id="3cooroy"
+           d="M1697.7 4025l-177.7 0 1 0
+              L0 4025 0 4201"/>
+    <path id="16bell"
+           d="M1697.7 0L1530 0"/>
+  </g>
+  <g class="neighbourtext">
+    <text x="750" y="4175">[Property: 3 Cooroy St]</text>
+    <text x="1620" y="2000" transform="rotate(90, 1620, 2000)">[Property: 16 Bell St]</text>
+    <text x="-475" y="2000" transform="rotate(90, -475, 2000)">[Road: Cooroy St]</text>
+    <text x="750" y="-520">[Road: Bell St]</text>
+  </g>
+  <path id="kerb" d="M-375 440a875 875 0 0 1 875-875h1201v12h-1201a863 863 0 0 0-863 863v3761h-12z"/>
+  <path id="House" d="M400 0L800 0 800 3500 0 3500 0 2900 200 2900 200 200z
+                      M220 210 220 2920 20 2920 20 3480 780 3480 780 20 410 20z"/>
+</svg>
